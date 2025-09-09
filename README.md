@@ -9,16 +9,11 @@ I am currently studying **Computer Engineering at VIT Pune**.
 - Linux & Open Source 🐧
 - Competitive Programming 💻
 
-## Goals
-- Become an **AI Research Scientist** 🔬
-- Learn and master **Linux (Ubuntu)** 🖥️
-- Build projects in **MLOps** and modern AI tools
-- Contribute to **open-source projects**
-
 ## Skills (in progress 🚀)
 - Programming: Basics of Python
 - Basics of Git & Version Control
 - Basics of Linux
+  (*still learning and trying to find new things*) 
 
 ## Hobbies
 - Reading about new tech 📚
