@@ -13,7 +13,8 @@ I am currently studying **Computer Engineering at VIT Pune**.
 - Programming: Basics of Python
 - Basics of Git & Version Control
 - Basics of Linux
-  (*still learning and trying to find new things*) 
+
+(*still learning and trying to find new things*) 
 
 ## Hobbies
 - Reading about new tech 📚
